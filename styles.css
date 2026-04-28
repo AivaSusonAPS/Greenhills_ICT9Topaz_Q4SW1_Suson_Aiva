@@ -1,0 +1,30 @@
+.container {
+ background-color: rgb(236, 221, 208);
+ border-radius: 20px;
+ padding: 100px;
+}
+
+ body {
+background: white;
+text-align: center;
+background-repeat: repeat;
+padding: 100px;
+}
+
+input {
+    border-radius: 20px;
+    border-style:groove;
+    width: 100%;
+    padding: 20px;
+    margin-top: 5px; 
+    text-align: center;
+}
+
+.btn {
+    background-color: white;
+    border-radius: 20px;
+    border: none;
+    width: 100%;
+    padding: 20px;
+    margin-top: 20px;
+}
